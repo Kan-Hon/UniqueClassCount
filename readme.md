@@ -6,4 +6,4 @@ Achieved 75% test accuracy on CIFAR-10.
 
 Completed as part of CS5242 coursework at National University of Singapore.
 
-![UCC Framework](Code\git_stage\UniqueClassCount\ucc_framework.png)
+![UCC Framework](./ucc_framework.png)
